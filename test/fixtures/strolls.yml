@@ -1,0 +1,7 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rdv: 2023-05-04 19:26:09
+
+two:
+  rdv: 2023-05-04 19:26:09
